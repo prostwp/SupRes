@@ -186,3 +186,6 @@ fabric.properties
 package-lock.json
 package.json
 teest.js
+debug files
+.venv
+node_modules
